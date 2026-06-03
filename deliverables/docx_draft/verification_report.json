@@ -1,0 +1,102 @@
+{
+  "structural": [
+    {
+      "name": "交互组合仿真子系统需求分析报告.docx",
+      "exists": true,
+      "size": 43069,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 3403
+    },
+    {
+      "name": "交互组合仿真子系统软件设计方案.docx",
+      "exists": true,
+      "size": 44136,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 4278
+    },
+    {
+      "name": "交互组合仿真子系统设计方案报告.docx",
+      "exists": true,
+      "size": 44258,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 4347
+    },
+    {
+      "name": "交互组合仿真子系统程序员手册.docx",
+      "exists": true,
+      "size": 43442,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 3908
+    },
+    {
+      "name": "交互组合仿真子系统用户手册.docx",
+      "exists": true,
+      "size": 42853,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 2844
+    },
+    {
+      "name": "交互组合仿真子系统操作规程.docx",
+      "exists": true,
+      "size": 42861,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 2860
+    },
+    {
+      "name": "交互组合仿真子系统使用维护说明书.docx",
+      "exists": true,
+      "size": 43123,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 3017
+    },
+    {
+      "name": "交互组合仿真子系统项目测试大纲.docx",
+      "exists": true,
+      "size": 42299,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 2630
+    },
+    {
+      "name": "交互组合仿真子系统项目测试说明.docx",
+      "exists": true,
+      "size": 42819,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 3303
+    },
+    {
+      "name": "交互组合仿真子系统测试报告.docx",
+      "exists": true,
+      "size": 42314,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 3817
+    },
+    {
+      "name": "交互组合仿真子系统调试报告.docx",
+      "exists": true,
+      "size": 42502,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 3548
+    },
+    {
+      "name": "交互组合仿真子系统项目研制总结.docx",
+      "exists": true,
+      "size": 42608,
+      "contains_system_name": true,
+      "contains_title_keyword": true,
+      "paragraph_like_text_length": 2982
+    }
+  ],
+  "render": [],
+  "render_skipped": "structural-only mode"
+}

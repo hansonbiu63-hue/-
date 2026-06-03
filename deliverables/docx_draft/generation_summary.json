@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-05-24T13:04:33",
+  "output_dir": "F:\\UnityProgram\\test2\\deliverables\\docx_draft",
+  "documents": [
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统需求分析报告.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统软件设计方案.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统设计方案报告.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统程序员手册.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统用户手册.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统操作规程.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统使用维护说明书.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统项目测试大纲.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统项目测试说明.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统测试报告.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统调试报告.docx",
+    "F:\\UnityProgram\\test2\\deliverables\\docx_draft\\交互组合仿真子系统项目研制总结.docx"
+  ],
+  "source_documents": [
+    "C:\\Users\\Lenovo\\Desktop\\交互组合仿真子系统源码＋APK\\交互组合仿真子系统源码＋APK\\04_Documents\\交互组合仿真子系统技术项目实施方案.docx",
+    "C:\\Users\\Lenovo\\Desktop\\交互组合仿真子系统源码＋APK\\交互组合仿真子系统源码＋APK\\04_Documents\\交互组合仿真子系统.docx"
+  ],
+  "frame_csv_count": 31,
+  "representative_csv": "F:\\TestData\\Frame_S001_Session_001_20260328_214220.csv",
+  "metrics": {
+    "subset_acc": 0.0,
+    "hamming_loss": 0.5402877697841727,
+    "macro_f1": 0.22333468076138335,
+    "per_label_f1": [
+      0.0,
+      0.7913043429750474,
+      0.6886792407026523,
+      0.0,
+      0.7533632239361338,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "precision_at_3": 0.28776979446411133,
+    "recall_at_3": 0.28776979446411133,
+    "exact_match_at_3": 0.0,
+    "best_threshold": 0.3
+  },
+  "apks": [
+    "F:\\UnityProgram\\test2\\PicoVREyeTracking.apk",
+    "F:\\UnityProgram\\test2\\test10.apk",
+    "F:\\UnityProgram\\test2\\test8.apk",
+    "F:\\UnityProgram\\test2\\test9.apk",
+    "F:\\UnityProgram\\test2\\testData.apk",
+    "F:\\UnityProgram\\test2\\testData2.apk",
+    "F:\\UnityProgram\\test2\\testData3.apk",
+    "F:\\UnityProgram\\test2\\testData4.apk",
+    "F:\\UnityProgram\\test2\\testData5.apk",
+    "F:\\UnityProgram\\test2\\testData6.apk",
+    "F:\\UnityProgram\\test2\\testData7.apk",
+    "F:\\UnityProgram\\test2\\testData8.apk",
+    "F:\\UnityProgram\\test2\\testON.apk",
+    "F:\\UnityProgram\\test2\\testON22.apk",
+    "F:\\UnityProgram\\test2\\testON223.apk",
+    "F:\\UnityProgram\\test2\\testON2apk.apk",
+    "F:\\UnityProgram\\test2\\testRuleBeyes.apk",
+    "F:\\UnityProgram\\test2\\testRuleBeyes2.apk",
+    "F:\\UnityProgram\\test2\\testRuleBeyes3.apk",
+    "F:\\UnityProgram\\test2\\testRuleBeyes4.apk",
+    "F:\\UnityProgram\\test2\\testRuleBeyes5.apk",
+    "F:\\UnityProgram\\test2\\Transformertest.apk",
+    "C:\\Users\\Lenovo\\Desktop\\交互组合仿真子系统源码＋APK\\交互组合仿真子系统源码＋APK\\02_APK\\PicoVREyeTracking_v.1.0.0.apk"
+  ]
+}
