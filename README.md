@@ -1,3 +1,4 @@
+
 ﻿# test2
 
 ## Eye Tracking Setup (PICO 4 Pro)
@@ -71,3 +72,6 @@ The exported model uses a 150-frame by 47-feature input and emits 10 sigmoid sco
 ### Runtime UI polish
 
 `VRDashboardRuntimePolish` applies low-glare panel colors, stable auto-sized text, and cleaner placeholder copy at runtime so the existing scene bindings stay intact while the dashboard reads less like a raw debug prototype.
+
+
+
